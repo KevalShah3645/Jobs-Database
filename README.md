@@ -1,10 +1,5 @@
 JOBS DATABASE:
 
-Group Members:
-Keval Shah
-Rohit Chandramouli
-Akshay Kochhar
-
 Course Name:INFO 6210 Database Management and Database Design
 
 ABSTRACT:
