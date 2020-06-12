@@ -10,10 +10,16 @@ Python 3 and
 Geckodriver
 
 Libraries Used:
-from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException, StaleElementReferenceException
+from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException, 
+
+StaleElementReferenceException
+
 from selenium import webdriver
+
 import time
+
 import csv
+
 import pandas as pd
 
 This project is LICENSED under MIT License# Jobs-Database
