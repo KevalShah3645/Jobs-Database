@@ -10,6 +10,7 @@ Python 3 and
 Geckodriver
 
 Libraries Used:
+
 from selenium.common.exceptions i
 
 mport NoSuchElementException, ElementClickInterceptedException, 
