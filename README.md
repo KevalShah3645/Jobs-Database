@@ -6,20 +6,10 @@ The objective of this project is to build a job database by scrapping Glassdoor 
 Python 3 and
 Geckodriver
 
-#### Libraries Used:
+#### Key Libraries Used:
 
-from selenium.common.exceptions i
-
-mport NoSuchElementException, ElementClickInterceptedException, 
-
-StaleElementReferenceException
-
-from selenium import webdriver
-
-import time
-
-import csv
-
-import pandas as pd
+1. Selenium
+2. Pandas
+3. Webdriver
 
 #### This project is LICENSED under MIT License# Jobs-Database
