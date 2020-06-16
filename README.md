@@ -8,8 +8,8 @@ Python 3 and Geckodriver
 
 #### Key Libraries Used:
 
-Selenium
-Pandas
+Selenium,
+Pandas, and
 Webdriver
 
 #### This project is LICENSED under MIT License# Jobs-Database
